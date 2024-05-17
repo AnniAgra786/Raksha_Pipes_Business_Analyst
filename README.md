@@ -82,6 +82,13 @@ Analyzing profit variations over months and years guides financial planning, cos
 
 #### Sales by Category: 
 Categorizing sales data provides insights into product segment performance, facilitating targeted marketing efforts, assortment planning, and resource allocation for maximizing revenue generation.
+Orders Delivered by Shippers: Monitoring shipping performance ensures timely order fulfillment, enhances customer satisfaction, and enables negotiation with shipping partners for cost-effective and efficient delivery services.
+
+#### Profit and Count of Orders from Each City: 
+Evaluating profitability and order frequency by city assists in geographic market analysis, identifying lucrative markets, and tailoring marketing strategies and inventory management to local demand patterns.
+
+#### Average Delivery Days for Day of Order:
+Calculating average delivery times helps in managing customer expectations, improving operational efficiency, and identifying bottlenecks in the supply chain for timely order fulfillment and enhanced customer satisfaction.
 
 
 
