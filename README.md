@@ -41,9 +41,6 @@ customers.to_csv('customers.csv', index=False)
 CREATE DATABASE raksha_pipes;
 #### 2. Use Database:
 USE raksha_pipes;
-3. Showing Tables:
-C
-SHOW TABLES;
 #### Create tables
 CREATE TABLE Customers (
     Customer_ID INT PRIMARY KEY,
@@ -53,6 +50,8 @@ CREATE TABLE Customers (
     Phone VARCHAR(15),
     Address VARCHAR(255)
     ![SQL_Querry_1](https://github.com/AnniAgra786/Raksha_Pipes_Business_Analyst/assets/109506450/e27dd10e-c1dc-4553-ab07-8caf9799c326)
+#### 3. Showing Tables:
+       SHOW TABLES;
 
 ## Connecting SQL Database to Power BI
 #### Open Power BI Desktop.
@@ -63,6 +62,8 @@ CREATE TABLE Customers (
 #### Choose the tables you want to import (e.g., customers).
 #### Click 'Load' to import the data into Power BI.
 ![Dashboard](https://github.com/AnniAgra786/Raksha_Pipes_Business_Analyst/assets/109506450/361ccdb7-350c-486f-9a8a-f5c7fd7d88db)
+
+
 ## KPIs
 
 #### Sales by SubCategory:
